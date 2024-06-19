@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css?family=Robot+Slab:100,300,400,700");
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,300i,400,400i, 500, 500i, 600, 600i");
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.heading_style {
+  padding: 30px 0;
+  text-align: center;
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+  font-size: 13px;
+  letter-spacing: 2px;
+  font-weight: 500;
+  /* color: #868686; */
+  background-color: #fff;
+  font-size: 1.5rem;
+  margin-bottom: 30px;
+}
+
+.slot_inner {
+  padding: 10px;
+  text-align: center;
+  justify-content: center;
+}
+
+.slot {
+  width: 30%;
+  margin-left: 35%;
+  padding: 30px;
+  box-shadow: 13px 13px 13px 13px rgba(0.1,0.1,0.1,0.1);
+}
